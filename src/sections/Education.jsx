@@ -1,6 +1,6 @@
 const educations = [
   {
-    period: "2020 - 2020",
+    period: "2020 - 2024",
     degree: "Information Science and Engineering",
     institution: "The Oxford College of Engineering, Bangalore",
     description:
